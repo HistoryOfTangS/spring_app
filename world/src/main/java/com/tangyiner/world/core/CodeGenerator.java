@@ -1,5 +1,4 @@
-/*
-package com.tangyiner.world.config;
+package com.tangyiner.world.core;
 
 import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.config.DataSourceConfig;
@@ -55,4 +54,3 @@ public class CodeGenerator {
                 ).execute();
     }
 }
-*/
